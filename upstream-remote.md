@@ -1,3 +1,1 @@
-What is an upstream remote?
-
 When we work on a repository locally, we are always working downstream in the sense that any changes pushed to the remote will 'flow' down to our local working directory. The upstream remote is the repository on Github that we would eventually push to once we've made our changes locally.
