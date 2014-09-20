@@ -1,3 +1,1 @@
-What is a branch?
-
 We create branches in order to work on a repository without changing the main code base of a project. This is useful when we want to test new features or patches. Branches can be merged onto the master or with each other.
